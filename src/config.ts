@@ -1,6 +1,6 @@
 const config = {
-    name: "The Cow Print",
-    domain: "thecowprint.com",
+    name: "Anime Plushies",
+    domain: "anime-plushies.com",
 };
 
 export default config;

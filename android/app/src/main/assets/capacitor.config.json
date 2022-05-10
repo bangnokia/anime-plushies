@@ -1,6 +1,6 @@
 {
-	"appId": "com.thecowprint.blog",
-	"appName": "The COW Print",
+	"appId": "com.animeplusies.blog",
+	"appName": "Anime Plusies Blog",
 	"webDir": "build",
 	"bundledWebRuntime": false
 }
