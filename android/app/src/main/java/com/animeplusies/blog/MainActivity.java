@@ -1,4 +1,4 @@
-package com.animejacket.blog;
+package com.animeplusies.blog;
 
 import com.getcapacitor.BridgeActivity;
 
