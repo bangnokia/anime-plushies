@@ -13,5 +13,5 @@ Generate files: `cordova-res android --skip-config --copy`
 
 - `yarn build`
 - `npx cap copy`
-- `npx open android`
+- `npx cap open android`
 
